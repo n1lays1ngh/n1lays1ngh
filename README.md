@@ -86,13 +86,13 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n1lays1ngh&show_icons=true&theme=transparent" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=n1lays1ngh" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n1lays1ngh&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=n1lays1ngh&theme=github_dark" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=n1lays1ngh&theme=github_dark&utcOffset=5.5" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1lays1ngh&layout=compact" height="200"/>
+</p>
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1lays1ngh&layout=compact" height="150"/>
-</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=n1lays1ngh&color=blue"/>
