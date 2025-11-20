@@ -90,9 +90,9 @@
   <img src="https://streak-stats.demolab.com/?user=n1lays1ngh" height="160"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1lays1ngh&layout=compact" height="150"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=n1lays1ngh&color=blue"/>
