@@ -94,9 +94,9 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=n1lays1ngh&color=blue"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%">
